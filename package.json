@@ -1,13 +1,15 @@
 {
-  "name": "compare-node-modules",
+  "name": "compare-folder-content",
   "version": "1.0.0",
-  "description": "A package to compare node-modules installed in two different directories/folders",
+  "description": "A package to compare content in two different folders",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "node-modules"
+    "node-modules",
+    "node-modules-comparison",
+    "compare-folders"
   ],
   "author": "Taha Muhammad",
   "license": "ISC",
