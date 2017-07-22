@@ -6,12 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devtaha/compare-node-modules"
+  },
+  "bugs": {
+    "url": "https://github.com/devtaha/compare-node-modules/issues"
+  },
   "keywords": [
     "node-modules",
     "node-modules-comparison",
     "compare-folders"
   ],
-  "author": "Taha Muhammad",
+  "author": "Taha Muhammad <tahachishti01@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2"
